@@ -1,0 +1,10 @@
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\bin\Debug\MaterialSkin.dll
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Stopwatch.resources
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\obj\Debug\Stopwatch.csproj.CopyComplete
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Сергей\Desktop\проекты\Трейнировки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
